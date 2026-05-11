@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+@theme {
+  --color-royalBlue: #2E5BFF;
+}
+
+:root {
+  color-scheme: light;
+}
